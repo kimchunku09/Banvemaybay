@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "904729481349",
+    "project_id": "banvemaybay",
+    "storage_bucket": "banvemaybay.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:904729481349:android:fc0fbd68dbebbf181a99ec",
+        "android_client_info": {
+          "package_name": "com.example.BanVeMaybay"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlzXTR9Fm3SM8jBn10kZV4Siwx-NJSGSw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
